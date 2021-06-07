@@ -1,0 +1,14 @@
+<panel>
+<popup>
+<window>
+<menu>
+<text>
+<primitive>
+<terminal>
+
+<[element type ()] exec="[cmd]" >
+
+
+css:
+
+
