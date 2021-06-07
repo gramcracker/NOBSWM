@@ -41,7 +41,7 @@ private:
 
     int windowIndex(Window* windows, Window window);
 
-    string textConfName = "scrollr.conf";
+    string textConfName = "wm.conf";
     char* xmlConfName = "config.xml";
     Display * display;
     Window root, parent;
