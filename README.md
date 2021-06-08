@@ -8,7 +8,7 @@ This window manager is highly configurable and extremely powerful while maintain
 This requires Xlib and Xephyr(for running in a nested X display).
 ## compile and run
 To compile:
-```g++ -o a main.cpp wm.cpp `pkg-config --libs x11 liblog` ```
+```g++ -o a main.cpp wm.cpp `pkg-config --libs x11` ```
 To run:
 (on first run)
 ```chmod +x run.sh ```
